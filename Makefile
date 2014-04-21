@@ -1,1 +1,1 @@
-FLAGS=-Wall -g
+CFLAGS=-Wall -g
